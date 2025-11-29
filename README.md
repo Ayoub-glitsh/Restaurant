@@ -45,7 +45,8 @@ Aucun framework (React, Bootstrap, etc.) n’a été utilisé.
 ## 📁 Structure du projet
 ```
 .
-├── index.html      # Fichier principal
+├── index.html
+├── Snack.png    # Fichier principal
 ├── /assets         # (si ajouté) images / logos
 └── README.md       # Documentation du projet
 ```
@@ -89,7 +90,7 @@ Aucun framework (React, Bootstrap, etc.) n’a été utilisé.
 
 ### 1\. Télécharger ou cloner le projet
 
-git clone <URL-DU-REPO>
+git clone https://github.com/Ayoub-glitsh/Restaurant.git
 
 ### 2\. Ouvrir le projet
 
