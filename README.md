@@ -1,5 +1,12 @@
 # 🍽️ Snack العائلة — Site Web du Restaurant Marocain
 
+
+<p align="center">
+  <img src="Snack.png" />
+</p>
+
+---
+
 Bienvenue sur le site officiel du restaurant **Snack العائلة**, situé à Ouarzazate.
 
 Ce projet est un site vitrine moderne, responsive et entièrement développé en **HTML / CSS / JavaScript** sans frameworks externes.
