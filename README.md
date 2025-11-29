@@ -47,7 +47,8 @@ Aucun framework (React, Bootstrap, etc.) n’a été utilisé.
 .
 ├── index.html
 ├── Snack.png    # Fichier principal
-├── /assets         # (si ajouté) images / logos
+├── fillet.webp
+├── fillet.webp      # (si ajouté) images / logos
 └── README.md       # Documentation du projet
 ```
 ## 🎨 Design & UI/UX
