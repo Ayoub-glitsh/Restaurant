@@ -45,10 +45,10 @@ Aucun framework (React, Bootstrap, etc.) n’a été utilisé.
 ## 📁 Structure du projet
 ```
 .
-├── index.html
-├── Snack.png    # Fichier principal
+├── index.html  # Fichier principal
+├── Snack.png    #  images 
 ├── fillet.webp
-├── fillet.webp      # (si ajouté) images / logos
+├── resto0001jpg.jpg      
 └── README.md       # Documentation du projet
 ```
 ## 🎨 Design & UI/UX
