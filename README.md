@@ -6,7 +6,7 @@ Ce projet est un site vitrine moderne, responsive et entièrement développé en
 
 ## 🌐 Démo en ligne
 
-👉 [**https://lively-sawine-97ce9a.netlify.app/**](https://lively-sawine-97ce9a.netlify.app/)
+👉 [**https://sage-narwhal-b08cde.netlify.app/**](https://sage-narwhal-b08cde.netlify.app/)
 
   
 
